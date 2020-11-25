@@ -26,9 +26,7 @@ class _NewUserState extends State<NewUser> {
         child: ListView(
 
           children: <Widget>[
-            Stack(
-              
-            ),
+
             Column(
               children: <Widget>[
                 Row(

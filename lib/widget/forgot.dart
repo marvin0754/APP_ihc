@@ -16,7 +16,7 @@ class _ForgotState extends State<Forgot> {
         child: FlatButton(
           onPressed: (){},
           child: Text(
-            'Forgot Password?',
+            'Olvido su contraseña?',
             style: TextStyle(
               color: Colors.white,
             ),

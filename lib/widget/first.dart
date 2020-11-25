@@ -18,7 +18,7 @@ class _FirstTimeState extends State<FirstTime> {
         child: Row(
           children: <Widget>[
             Text(
-              'Your first time?',
+              'Olvido su contraseña?',
               style: TextStyle(
                 fontSize: 12,
                 color: Colors.white70,
@@ -31,7 +31,7 @@ class _FirstTimeState extends State<FirstTime> {
                     MaterialPageRoute(builder: (context) => NewUser()));
               },
               child: Text(
-                'Sing up',
+                'Registro',
                 style: TextStyle(
                   fontSize: 12,
                   color: Colors.white,
